@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nishant-portfolio/static/css/main.2c4dda42.css",
+    "main.js": "/nishant-portfolio/static/js/main.327c9587.js",
+    "index.html": "/nishant-portfolio/index.html",
+    "main.2c4dda42.css.map": "/nishant-portfolio/static/css/main.2c4dda42.css.map",
+    "main.327c9587.js.map": "/nishant-portfolio/static/js/main.327c9587.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c4dda42.css",
+    "static/js/main.327c9587.js"
+  ]
+}
